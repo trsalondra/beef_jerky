@@ -1,7 +1,14 @@
 body {
     background-color: rgb(255, 255, 228);
     margin: 30px 100px;
+
     font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.page-container{
+    max-width:650px;
 }
 
 .heading {
